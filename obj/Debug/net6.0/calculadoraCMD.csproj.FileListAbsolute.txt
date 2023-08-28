@@ -1,0 +1,14 @@
+G:\csharp\calculadoraCMD\bin\Debug\net6.0\calculadoraCMD.exe
+G:\csharp\calculadoraCMD\bin\Debug\net6.0\calculadoraCMD.deps.json
+G:\csharp\calculadoraCMD\bin\Debug\net6.0\calculadoraCMD.runtimeconfig.json
+G:\csharp\calculadoraCMD\bin\Debug\net6.0\calculadoraCMD.dll
+G:\csharp\calculadoraCMD\bin\Debug\net6.0\calculadoraCMD.pdb
+G:\csharp\calculadoraCMD\obj\Debug\net6.0\calculadoraCMD.GeneratedMSBuildEditorConfig.editorconfig
+G:\csharp\calculadoraCMD\obj\Debug\net6.0\calculadoraCMD.AssemblyInfoInputs.cache
+G:\csharp\calculadoraCMD\obj\Debug\net6.0\calculadoraCMD.AssemblyInfo.cs
+G:\csharp\calculadoraCMD\obj\Debug\net6.0\calculadoraCMD.csproj.CoreCompileInputs.cache
+G:\csharp\calculadoraCMD\obj\Debug\net6.0\calculadoraCMD.dll
+G:\csharp\calculadoraCMD\obj\Debug\net6.0\refint\calculadoraCMD.dll
+G:\csharp\calculadoraCMD\obj\Debug\net6.0\calculadoraCMD.pdb
+G:\csharp\calculadoraCMD\obj\Debug\net6.0\calculadoraCMD.genruntimeconfig.cache
+G:\csharp\calculadoraCMD\obj\Debug\net6.0\ref\calculadoraCMD.dll
