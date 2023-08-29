@@ -1,24 +1,26 @@
-public class Calculadora
-{
-    public int numero1;
-    public int numero2;
+namespace Calculadora{  
+    public class CalcOperations
+    {
 
-    public adicao(int num1, int num2)
-    {
-        return num1 + num2;
-    }
-    public divisao(int num1, int num2)
-    {
-        return num1 / num2;
-    }
-    public multiplicacao(int num1, int num2)
-    {
-        return num1 * num2;
-    }
-    public subtracao(int num1, int num2)
-    {
-        return num1 - num2;
-    }
+        public double adicao(double num1, double num2)
+        {
+            return num1 + num2;
+        }
+        public double divisao(double num1, double num2)
+        {
+            return num1 / num2;
+        }
+        public double multiplicacao(double num1, double num2)
+        {
+            return num1 * num2;
+        }
+        public double subtracao(double num1, double num2)
+        {
+            return num1 - num2;
+        }
 
-    
+
+    }
 }
+
+

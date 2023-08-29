@@ -7,7 +7,7 @@ global using global::System.Threading;
 global using global::System.Threading.Tasks;
 using System.Reflection.Metadata.Ecma335;
 using System.Runtime.InteropServices;
-using Calculadora;
+namespace Calculadora;
 
 internal class Program
 {
@@ -19,40 +19,60 @@ internal class Program
     private static void Main(string[] args)
     {
         bool continua = true;
-        Calculadora calc = new Calculadora();
-        int soma = calc.adicao(10, 20);
-        Console.WriteLine(soma);
-
+        CalcOperations calculadora = new CalcOperations();
+        double resultado;
+        double numero1;
+        double numero2;
 
 
         while (continua)
 
         {
-            
             Console.WriteLine("Escolha a operacao");
             Console.WriteLine("1 - Adicao\n2 - divisao\n3 - multiplicacao\n4 - substracao\n5 - sair");
             Menu resposta = (Menu)int.Parse(Console.ReadLine());
+
             switch (resposta)
             {
                 case Menu.adicao:
-                    Console.WriteLine("Adicao");
-                    Console.Clear();
+                    Console.WriteLine("Digite o primeiro número: ");
+                    numero1 = double.Parse(Console.ReadLine());
+                    Console.WriteLine("Digite o segundo número: ");
+                    numero2 = double.Parse(Console.ReadLine());
+                    resultado = calculadora.adicao(numero1, numero2);
+                    Console.WriteLine(resultado);
+                   
                     break;
                 case Menu.divisao:
-                    Console.WriteLine("Divisao");
-                    Console.Clear();
+                    Console.WriteLine("Digite o primeiro número: ");
+                    numero1 = double.Parse(Console.ReadLine());
+                    Console.WriteLine("Digite o segundo número: ");
+                    numero2 = double.Parse(Console.ReadLine());
+                    resultado = calculadora.divisao(numero1, numero2);
+                    Console.WriteLine(resultado);
+                    
                     break;
                 case Menu.multiplicacao:
-                    Console.WriteLine("Multiplicacao");
-                    Console.Clear();
+                    Console.WriteLine("Digite o primeiro número: ");
+                    numero1 = double.Parse(Console.ReadLine());
+                    Console.WriteLine("Digite o segundo número: ");
+                    numero2 = double.Parse(Console.ReadLine());
+                    resultado = calculadora.multiplicacao(numero1, numero2);
+                    Console.WriteLine(resultado);
+                    
                     break;
                 case Menu.subtracao:
-                    Console.WriteLine("Subtracao");
-                    Console.Clear();
+                    Console.WriteLine("Digite o primeiro número: ");
+                    numero1 = double.Parse(Console.ReadLine());
+                    Console.WriteLine("Digite o segundo número: ");
+                    numero2 = double.Parse(Console.ReadLine());
+                    resultado = calculadora.subtracao(numero1, numero2);
+                    Console.WriteLine(resultado);
+                    
                     break;
                 case Menu.sair:
-                    
                     continua = false;
+                    
                     break;
             }
         }
