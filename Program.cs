@@ -6,6 +6,8 @@ global using global::System.Net.Http;
 global using global::System.Threading;
 global using global::System.Threading.Tasks;
 using System.Reflection.Metadata.Ecma335;
+using System.Runtime.InteropServices;
+using Calculadora;
 
 internal class Program
 {
@@ -13,13 +15,20 @@ internal class Program
     enum Menu{
         adicao = 1, divisao = 2, multiplicacao = 3, subtracao = 4, sair = 5
     }
+
     private static void Main(string[] args)
     {
         bool continua = true;
+        Calculadora calc = new Calculadora();
+        int soma = calc.adicao(10, 20);
+        Console.WriteLine(soma);
+
+
 
         while (continua)
 
         {
+            
             Console.WriteLine("Escolha a operacao");
             Console.WriteLine("1 - Adicao\n2 - divisao\n3 - multiplicacao\n4 - substracao\n5 - sair");
             Menu resposta = (Menu)int.Parse(Console.ReadLine());

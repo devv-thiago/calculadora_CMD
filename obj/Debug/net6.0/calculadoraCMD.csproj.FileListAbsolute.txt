@@ -12,3 +12,17 @@ G:\csharp\calculadoraCMD\obj\Debug\net6.0\refint\calculadoraCMD.dll
 G:\csharp\calculadoraCMD\obj\Debug\net6.0\calculadoraCMD.pdb
 G:\csharp\calculadoraCMD\obj\Debug\net6.0\calculadoraCMD.genruntimeconfig.cache
 G:\csharp\calculadoraCMD\obj\Debug\net6.0\ref\calculadoraCMD.dll
+C:\Users\thiago.fofano\OneDrive - Emulzint Aditivos Alimentícios Ind e Com Ltda\Documentos\csharp\calculadoraCMD\calculadora_CMD\bin\Debug\net6.0\calculadoraCMD.exe
+C:\Users\thiago.fofano\OneDrive - Emulzint Aditivos Alimentícios Ind e Com Ltda\Documentos\csharp\calculadoraCMD\calculadora_CMD\bin\Debug\net6.0\calculadoraCMD.deps.json
+C:\Users\thiago.fofano\OneDrive - Emulzint Aditivos Alimentícios Ind e Com Ltda\Documentos\csharp\calculadoraCMD\calculadora_CMD\bin\Debug\net6.0\calculadoraCMD.runtimeconfig.json
+C:\Users\thiago.fofano\OneDrive - Emulzint Aditivos Alimentícios Ind e Com Ltda\Documentos\csharp\calculadoraCMD\calculadora_CMD\bin\Debug\net6.0\calculadoraCMD.dll
+C:\Users\thiago.fofano\OneDrive - Emulzint Aditivos Alimentícios Ind e Com Ltda\Documentos\csharp\calculadoraCMD\calculadora_CMD\bin\Debug\net6.0\calculadoraCMD.pdb
+C:\Users\thiago.fofano\OneDrive - Emulzint Aditivos Alimentícios Ind e Com Ltda\Documentos\csharp\calculadoraCMD\calculadora_CMD\obj\Debug\net6.0\calculadoraCMD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.fofano\OneDrive - Emulzint Aditivos Alimentícios Ind e Com Ltda\Documentos\csharp\calculadoraCMD\calculadora_CMD\obj\Debug\net6.0\calculadoraCMD.AssemblyInfoInputs.cache
+C:\Users\thiago.fofano\OneDrive - Emulzint Aditivos Alimentícios Ind e Com Ltda\Documentos\csharp\calculadoraCMD\calculadora_CMD\obj\Debug\net6.0\calculadoraCMD.AssemblyInfo.cs
+C:\Users\thiago.fofano\OneDrive - Emulzint Aditivos Alimentícios Ind e Com Ltda\Documentos\csharp\calculadoraCMD\calculadora_CMD\obj\Debug\net6.0\calculadoraCMD.csproj.CoreCompileInputs.cache
+C:\Users\thiago.fofano\OneDrive - Emulzint Aditivos Alimentícios Ind e Com Ltda\Documentos\csharp\calculadoraCMD\calculadora_CMD\obj\Debug\net6.0\calculadoraCMD.dll
+C:\Users\thiago.fofano\OneDrive - Emulzint Aditivos Alimentícios Ind e Com Ltda\Documentos\csharp\calculadoraCMD\calculadora_CMD\obj\Debug\net6.0\refint\calculadoraCMD.dll
+C:\Users\thiago.fofano\OneDrive - Emulzint Aditivos Alimentícios Ind e Com Ltda\Documentos\csharp\calculadoraCMD\calculadora_CMD\obj\Debug\net6.0\calculadoraCMD.pdb
+C:\Users\thiago.fofano\OneDrive - Emulzint Aditivos Alimentícios Ind e Com Ltda\Documentos\csharp\calculadoraCMD\calculadora_CMD\obj\Debug\net6.0\calculadoraCMD.genruntimeconfig.cache
+C:\Users\thiago.fofano\OneDrive - Emulzint Aditivos Alimentícios Ind e Com Ltda\Documentos\csharp\calculadoraCMD\calculadora_CMD\obj\Debug\net6.0\ref\calculadoraCMD.dll
